@@ -15,7 +15,7 @@ const SideNavigationBar: React.FC<SideNavigationBarProps> = ({ children }) => {
 
           <li>
             <Link href="/webForm" className="text-white hover:text-gray-300">
-              Faz o teu Seguro
+              Gestão de despesas
             </Link>
           </li>
         </ul>
